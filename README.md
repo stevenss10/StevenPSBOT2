@@ -1,4 +1,4 @@
-# Drawl Nag
+# StevenPS BOT
 Simple WhatsApp Bot
 
 ### FOR TERMUX USER
@@ -8,8 +8,8 @@ Simple WhatsApp Bot
 > pkg install nodejs -y
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
-> git clone https://github.com/Arya274/Arya-BOT4
-> cd Arya-BOT4
+> git clone https://github.com/stevenss10/StevenPSBOT2.git
+> cd StevenPSBOT2
 > npm install
 ```
 ###### Run
